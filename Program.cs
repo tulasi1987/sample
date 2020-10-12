@@ -22,5 +22,7 @@ namespace sample
                 {
                     webBuilder.UseStartup<Startup>();
                 });
+
+       //command
     }
 }
